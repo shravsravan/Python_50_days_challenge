@@ -1,2 +1,3 @@
 # Python_50_days_challenge
-refreshing out my basic Python from the very start
+Refreshing out my basic Python from the very start
+Day1: Hello World
